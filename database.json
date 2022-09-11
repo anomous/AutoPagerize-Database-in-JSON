@@ -16,7 +16,7 @@
   {
     "data": {
       "nextLink": "//*[@id='content_div']/div[3]/a",
-      "pageElement": "id('content_div')/div[@class='main_content']/div[@class='search_container']/div[@class='search_results']",
+      "pageElement": "//div[@class='post_el_small']",
       "url": "^https://sxyprn.com/"
     }
   },
