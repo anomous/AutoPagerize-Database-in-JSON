@@ -1,37 +1,18 @@
 [
   {
     "data": {
-      "nextLink": "//*[@rel='next']",
-      "pageElement": "//body/*",
-      "url": "^https://example.com/"
-    }
-  },
-  {
-    "data": {
-      "nextLink": "//div[@class='page-numbers']/nav[1]/ul[@class='pagination pagination-lg']/li[@class='page-item']/a[@class='page-link ']",
-      "pageElement": "//div[@class='cards-container']",
-      "url": "^https://www.gaymaletube.com/"
-    }
-  },
-  {
-    "data": {
-      "nextLink": "//*[@id='CategoryProducts']/table/tbody/tr/td[2]/table/tbody/tr/td/div/ul/li[9]/a",
-      "pageElement": "//*[@id='CategoryProducts']/div[4]/table",
-      "url": "^https://www.ecuagenera.com/"
-    }
-  },
-   {
-    "data": {
       "nextLink": "//li[@class='prev']//a",
       "pageElement": "//article",
-      "url": "^https://blog\\.mozilla\\.org/futurereleases/(page/\\d+/)?$"
+      "insertBefore": "//nav[@class='nav-paging']",
+      "url": "^https://blog\\.mozilla\\.org/futurereleases/(page/\\d+/)?$",
+      "exampleUrl": "https://blog.mozilla.org/futurereleases/"
     }
   },
   {
     "data": {
       "nextLink": "id('list_videos_common_videos_list_pagination')/div[@class='pagination-holder']/ul[1]/li[@class='next']/a[1]",
       "pageElement": "id('list_videos_common_videos_list_items')/*",
-      "url": "^https://analnoe-porno\\.net"
+      "url": "^https://analnoe-porno.net"
     }
   },
   {
@@ -39,6 +20,20 @@
       "nextLink": "//*[@id='content_div']/div[3]/a",
       "pageElement": "//div[@class='search_results']/div[@class='post_el_small']",
       "url": "^https://sxyprn.com"
+    }
+  },
+  {
+    "data": {
+      "nextLink": "//div[@class='page-numbers']/nav[1]/ul[@class='pagination pagination-lg']/li[@class='page-item']/a[@class='page-link ']",
+      "pageElement": "//div[@class='cards-container']",
+      "url": "^https://www.gaymaletube.com"
+    }
+  },
+  {
+    "data": {
+      "nextLink": "//*[@id='CategoryProducts']/table/tbody/tr/td[2]/table/tbody/tr/td/div/ul/li[9]/a",
+      "pageElement": "//*[@id='CategoryProducts']/div[4]/table",
+      "url": "^https://www.ecuagenera.com"
     }
   }
 ]
