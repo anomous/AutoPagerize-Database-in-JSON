@@ -12,6 +12,7 @@
     "data": {
       "nextLink": "id('list_videos_common_videos_list_pagination')/div[@class='pagination-holder']/ul[1]/li[@class='next']/a[1]",
       "pageElement": "id('list_videos_common_videos_list_items')/*",
+      "insertBefore": "//*[@id='list_videos_common_videos_list_pagination']",
       "url": "^https://analnoe-porno.net"
     }
   },
