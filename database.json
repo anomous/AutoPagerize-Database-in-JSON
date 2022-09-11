@@ -1,6 +1,13 @@
 [
   {
     "data": {
+      "nextLink": "//*[@rel='next']",
+      "pageElement": "//body/*",
+      "url": "^https://example.com/"
+    }
+  },
+  {
+    "data": {
       "nextLink": "//div[@class='page-numbers']/nav[1]/ul[@class='pagination pagination-lg']/li[@class='page-item']/a[@class='page-link ']",
       "pageElement": "//div[@class='cards-container']",
       "url": "^https://www.gaymaletube.com/"
@@ -13,25 +20,25 @@
       "url": "^https://www.ecuagenera.com/"
     }
   },
+   {
+    "data": {
+      "nextLink": "//li[@class='prev']//a",
+      "pageElement": "//article",
+      "url": "^https://blog\\.mozilla\\.org/futurereleases/(page/\\d+/)?$"
+    }
+  },
+  {
+    "data": {
+      "nextLink": "id('list_videos_common_videos_list_pagination')/div[@class='pagination-holder']/ul[1]/li[@class='next']/a[1]",
+      "pageElement": "id('list_videos_common_videos_list_items')/*",
+      "url": "^https://analnoe-porno\\.net"
+    }
+  },
   {
     "data": {
       "nextLink": "//*[@id='content_div']/div[3]/a",
-      "pageElement": "//div[@class='main_content']/div[@class='search_container']/div[@class='search_results']",
-      "url": "^https://sxyprn.com/"
-    }
-  },
-  {
-    "data": {
-      "nextLink": "//*[@rel='next']",
-      "pageElement": "//body/*",
-      "url": "^https://example\\.com/one"
-    }
-  },
-  {
-    "data": {
-      "nextLink": "//*[@rel='next']",
-      "pageElement": "//body/*",
-      "url": "^https://example\\.com/one"
+      "pageElement": "//div[@class='search_results']/div[@class='post_el_small']",
+      "url": "^https://sxyprn.com"
     }
   }
 ]
