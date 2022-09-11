@@ -15,9 +15,9 @@
   },
   {
     "data": {
-      "nextLink": "//*[@rel='next']",
-      "pageElement": "//body/*",
-      "url": "^https://example\\.com/one"
+      "nextLink": "//div[@class='next_page clip']/span[1]",
+      "pageElement": "//*[@id='content_div']/div[3]/div[1]/div[2]/div[2]",
+      "url": "^https://sxyprn.com/"
     }
   },
   {
