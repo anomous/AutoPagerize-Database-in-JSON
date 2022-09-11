@@ -15,7 +15,7 @@
   },
   {
     "data": {
-      "nextLink": "//*[@id='content_div']/div[3]/a",
+      "nextLink": "//div[@class='next_page clip']/span[1]",
       "pageElement": "//div[@class='search_results']",
       "url": "^https://sxyprn.com/"
     }
