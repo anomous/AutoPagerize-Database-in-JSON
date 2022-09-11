@@ -25,14 +25,14 @@
   {
     "data": {
       "nextLink": "//*[@id='list_videos_most_recent_videos_pagination']/a",
-      "pageElement": "id('list_videos_most_recent_videos_items')/*",
+      "pageElement": "//*[@id='list_videos_most_recent_videos_items']/*",
       "url": "^https://analnoe-porno.net/"
     }
   },
   {
     "data": {
-      "nextLink": "id('content_div')/div[@class='main_content']/a[@class='tdn']/div[@class='next_page clip']/span[1]",
-      "pageElement": "//div[@class='search_results']/div[@class='post_el_small']",
+      "nextLink": "//*[@id='content_div']/div[3]/a",
+      "pageElement": "//div[@class='search_results']/*",
       "url": "^https://sxyprn.com/"
     }
   }
