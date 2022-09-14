@@ -31,7 +31,7 @@
   },
   {
     "data": {
-      "nextLink": "//*[@id='content_div']/div[3]/a",
+      "nextLink": "//*[@id='content_div']/div[3]/div[5]/a",
       "pageElement": "//div[@class='search_results']/*",
       "url": "^https://sxyprn.com/"
     }
