@@ -32,7 +32,7 @@
   {
     "data": {
       "nextLink": "//*[@id='content_div']/div[3]/div[5]/a",
-      "pageElement": "//div[@id='wrapper_div']/div[@id='content_div']/div[@class='main_content']/div[@class='blog_posts']/div[@class='post_el_small']/div[@class='post_el_wrap']/div[@class='post_text ']/*",
+      "pageElement": "//div[@class='main_content']/div[@class='blog_posts']/div[@class='post_el_small']/div[@class='post_el_wrap']/div[@class='post_text ']/*",
       "url": "^https://sxyprn.com/blog/[-.a-zA-Z0-9]*/\\d.html?[a-zA-Z0-9]*"
     }
   },
