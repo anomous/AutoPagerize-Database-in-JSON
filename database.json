@@ -32,8 +32,8 @@
   {
     "data": {
       "nextLink": "//*[@id='content_div']/div[3]/div[5]/a",
-      "pageElement": "//div[@class='main_content']/div[@class='blog_posts']/div[@class='post_el_small']/div[@class='post_el_wrap']/div[@class='post_text ']/*",
-      "url": "^https://sxyprn.com/blog/[-.a-zA-Z0-9]*/\\d.html?[a-zA-Z0-9]*"
+      "pageElement": "//div[@class='blog_posts']/*",
+      "url": "^https://sxyprn.com/blog/[-.a-zA-Z0-9]*/\\d.html\?[a-zA-Z0-9]*"
     }
   },
    {
