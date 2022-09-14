@@ -39,9 +39,8 @@
   },
    {
     "data": {
-      "insertBefore": "//*[@id='content_div']/*",
       "nextLink": "//*[@id='content_div']/div[3]/a",
-      "pageElement": "id('content_div')/div[@class='main_content']/div[@class='search_container']/div[@class='search_results']/div[@class='post_el_small']",
+      "pageElement": "//div[@class='post_el_small']",
       "url": "^https://sxyprn.com/[-/=?.a-zA-Z0-9]*"
     }
   }
