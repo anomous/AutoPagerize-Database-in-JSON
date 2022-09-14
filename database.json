@@ -40,7 +40,7 @@
     "data": {
       "nextLink": "//*[@id='content_div']/div[3]/a",
       "pageElement": "//div[@class='main_content']/div[@class='search_container']/div[@class='search_results']/*",
-      "url": "^https://sxyprn.com/[-.]*\.html"
+      "url": "^https://sxyprn.com/[-.]*.html"
     }
   }
 ]
