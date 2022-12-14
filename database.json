@@ -1,6 +1,14 @@
 [
   {
     "data": {
+      "exampleUrl": "https://www.analvids.com",
+      "nextLink": "//*[@id='niche-section']/div[3]/div/div[4]/ul/li[11]/a",
+      "pageElement": "//*[@id='niche-section']/*",
+      "url": "https://www.analvids.com/"
+    }
+  },
+  {
+    "data": {
       "exampleUrl": "https://blog.mozilla.org/futurereleases/",
       "insertBefore": "//nav[@class='nav-paging']",
       "nextLink": "//li[@class='prev']//a",
