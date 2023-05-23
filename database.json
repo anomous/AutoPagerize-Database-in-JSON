@@ -9,32 +9,16 @@
   },
   {
     "data": {
-      "exampleUrl": "https://blog.mozilla.org/futurereleases/",
-      "insertBefore": "//nav[@class='nav-paging']",
-      "nextLink": "//li[@class='prev']//a",
-      "pageElement": "//article",
-      "url": "^https://blog\\.mozilla\\.org/futurereleases/(page/\\d+/)?$"
-    }
-  },
-  {
-    "data": {
-      "nextLink": "//*[@id='CategoryProducts']/table/tbody/tr/td[2]/table/tbody/tr/td/div/ul/li[9]/a",
-      "pageElement": "//*[@id='CategoryProducts']/div[4]/table",
-      "url": "^https://www.ecuagenera.com/"
-    }
-  },
-  {
-    "data": {
-      "nextLink": "//div[@class='page-numbers']/nav[1]/ul[@class='pagination pagination-lg']/li[@class='page-item']/a[@class='page-link ']",
-      "pageElement": "//div[@class='cards-container']",
-      "url": "^https://www.gaymaletube.com/"
+      "nextLink": "//*[@id='dle-content']/div[121]/div/a[4]",
+      "pageElement": "//*[@id='dle-content']/div[*]",
+      "url": "^http://rus-sex.one/[-/=?.a-zA-Z0-9]*"
     }
   },
   {
     "data": {
       "nextLink": "//*[@id='list_videos_most_recent_videos_pagination']/a",
       "pageElement": "//*[@id='list_videos_most_recent_videos_items']/*",
-      "url": "^https://analnoe-porno.net/"
+      "url": "^https://analnoe-porno.net/latest-updates/"
     }
   },
   {
@@ -50,6 +34,15 @@
       "nextLink": "//*[@id='content_div']/div[3]/a",
       "pageElement": "//div[@class='post_el_small']",
       "url": "^https://sxyprn.com/[-/=?.a-zA-Z0-9]*"
+    }
+  },
+  {
+    "data": {
+      "exampleUrl": "https://blog.mozilla.org/futurereleases/",
+      "insertBefore": "//nav[@class='nav-paging']",
+      "nextLink": "//li[@class='prev']//a",
+      "pageElement": "//article",
+      "url": "^https://blog\\.mozilla\\.org/futurereleases/(page/\\d+/)?$"
     }
   }
 ]
