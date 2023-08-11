@@ -1,0 +1,10 @@
+{
+  "action": "click",
+  "append": "ajax",
+  "clickElement": "//div[@class='next_page clip']/span",
+  "date": "2023-08-11T19:09:59.856Z",
+  "id": 1,
+  "name": "SxyPorn.com",
+  "pageElement": "//div[@class='post_el_small']",
+  "url": "^https://sxyprn.com/[!@#&%$#!.-=/?+]*"
+}
