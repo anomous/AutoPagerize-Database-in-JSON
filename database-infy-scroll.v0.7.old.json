@@ -11,7 +11,7 @@
     "data": {
       "nextLink": "//*[@id='dle-content']/div[121]/div/a[4]",
       "pageElement": "//*[@id='dle-content']/div[*]",
-      "url": "^http://rus-sex.one/[-/=?.a-zA-Z0-9]*"
+      "url": "^http://rus-sex.one/[!@#&%$#!.-=/?+]*"
     }
   },
   {
@@ -26,14 +26,14 @@
       "insertBefore": "//*[@id='content_div']/div[3]/div[5]/a[1]/div",
       "nextLink": "//*[@id='content_div']/div[3]/div[5]/a",
       "pageElement": "//div[@class='blog_posts']/*",
-      "url": "^https://sxyprn.com/blog/[-/?.a-zA-Z0-9]*"
+      "url": "^https://sxyprn.com/blog/[!@#&%$#!.-=/?+]*"
     }
   },
    {
     "data": {
-      "nextLink": "//*[@id='content_div']/div[3]/a",
+      "nextLink": "//div[@class='next_page clip']/span",
       "pageElement": "//div[@class='post_el_small']",
-      "url": "^https://sxyprn.com/[-/=?.a-zA-Z0-9]*"
+      "url": "^https://sxyprn.com/[!@#&%$#!.-=/?+]*"
     }
   },
   {
